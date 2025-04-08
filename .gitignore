@@ -1,2 +1,17 @@
-storage/
+# Flet specific
+/flet/
+/storage/
+/.flet/
+
+# Python cache and artifacts
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# IDE specific
+.vscode/
+.idea/
