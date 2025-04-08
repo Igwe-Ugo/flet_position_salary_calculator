@@ -43,7 +43,9 @@ salary-calculator/
 ├── Position_Salaries.csv  # Dataset file
 ├── requirements.txt       # Dependencies file
 ├── README.md              # This file
-└── screenshot.png         # Application screenshot
+├── salary_calculator_1.png   # Application screenshot @ initial stage
+└── salary_calculator_2.png   # Application screenshot when predicted
+
 
 ## Dataset
 The application uses a CSV file (Position_Salaries.csv) with the following structure:
