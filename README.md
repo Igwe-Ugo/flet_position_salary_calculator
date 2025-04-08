@@ -14,7 +14,7 @@ A Flet-based web application that predicts salaries based on position levels usi
 - **Frontend**: [Flet](https://flet.dev/) (Python framework for building web apps)
 - **Backend**: Python
 - **Machine Learning**: Scikit-learn (LinearRegression, PolynomialFeatures)
-- **Data Handling**: Pandas, NumPy
+- **Data Handling**: Pandas
 
 ## Prerequisites
 
@@ -25,5 +25,6 @@ A Flet-based web application that predicts salaries based on position levels usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/salary-calculator.git
-   cd salary-calculator
+   git clone https://github.com/Igwe-Ugo/flet_position_salary_calculator
+   cd flet_position_salary_calculator
+
